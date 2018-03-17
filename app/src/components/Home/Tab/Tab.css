@@ -1,0 +1,32 @@
+.tab-com {
+    width:100%;
+    height:100%;
+}
+.tab{
+    width:100%;
+    height:11.5rem;
+    
+    overflow-y: auto;
+}
+.tab-com>div:nth-child(2) {
+    height: 100%;
+}
+
+.tab-first {
+    width: 100%;
+    position: relative;
+    text-align:center;
+    span {
+        position: absolute;
+        display: block;
+        left: 10px;
+        top: 0;
+    }
+}
+.am-whitespace.am-whitespace-md {
+    height: 0px;
+}
+.tab-cont {
+    height: 85%;
+    background-color: #fff;
+}

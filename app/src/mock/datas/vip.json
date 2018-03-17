@@ -1,0 +1,134 @@
+{
+    "code": 0,
+    "open_card_button_name": "立即开通",
+    "unopened_back_img": "https://j-image.missfresh.cn/img_20171101110238591.png",
+    "vipCardInfo": {
+        "imageWidth": 1280,
+        "openImage": "https://j-image.missfresh.cn/img_20180102172055698.png",
+        "openTitle": "开通优享会员 尊享5大特权",
+        "nickName": "",
+        "portrait": "",
+        "imageHeight": 800,
+        "freeTrialButton": {
+            "subTitle": "会员专享价/1小时达等6大特权",
+            "title": "免费体验优享会员"
+        },
+        "openVipButton": {
+            "subTitle": "会员专享价/1小时达等6大特权",
+            "title": "8元开通优享会员"
+        }
+    },
+    "can_not_open_card_msg": "",
+    "total_save_text": "根据优鲜用户年平均消费3504元计算",
+    "can_open_card": 1,
+    "user_type": 0,
+    "card_img": "https://j-image.missfresh.cn/img_20171028203434011.png",
+    "vipRightTitle": "优享会员5大特权",
+    "promoteDoc": "",
+    "save_money_list": [{
+        "name": "购物返现",
+        "text": "单单返现5%无上限",
+        "money_text": {
+            "color": 9868950,
+            "value": "¥175.20"
+        }
+    }, {
+        "name": "会员专享价",
+        "text": "优质商品最高优惠50%",
+        "money_text": {
+            "color": 9868950,
+            "value": "¥525.60"
+        }
+    }, {
+        "name": "优惠红包",
+        "text": "各种优惠享不停",
+        "money_text": {
+            "color": 9868950,
+            "value": "¥420.50"
+        }
+    }],
+    "vipRedPacketInfo": {
+        "subTitle": "专门为您打造的至尊服务",
+        "title": "优享会员专属红包",
+        "imageList": ["https://j-image.missfresh.cn/img_20180104212321127.png", "https://j-image.missfresh.cn/img_20180104212349033.png"]
+    },
+    "list_can_close": 0,
+    "total_save_name": "会员期间已为您节省",
+    "save_money_title": "会员省钱计算器",
+    "vipRightSubTitle": "专门为您打造的至尊服务",
+    "card_detail": "",
+    "openVipButton": {
+        "backgroundImage": "https://j-image.missfresh.cn/img_20171228155927257.png",
+        "name": "开通优享会员"
+    },
+    "opened_back_img": "https://j-image.missfresh.cn/img_20171028203434011.png",
+    "vip_rights_icon": [{
+        "path": "https://j-image.missfresh.cn/img_20171028202643589.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20171228155342915.png",
+        "name": "购物返现",
+        "link": "https://p-h5.missfresh.cn/vip_fanxian.html",
+        "primaryName": "每单返现5%",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180105115108157.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180103105120937.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180103104714720.png"
+    }, {
+        "path": "https://j-image.missfresh.cn/img_20171103161358679.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20171228155459516.png",
+        "name": "会员专享价",
+        "link": "https://p-h5.missfresh.cn/jiage.html",
+        "primaryName": "30%商品享低价",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180105115059526.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180103105209021.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180103104816030.png"
+    }, {
+        "path": "https://j-image.missfresh.cn/img_20171028202735028.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20171228155420675.png",
+        "name": "1小时送达",
+        "link": "https://p-h5.missfresh.cn/xiaoshida4.html",
+        "primaryName": "1小时送达",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180105115559492.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180103105332760.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180103104954137.png"
+    }, {
+        "path": "https://j-image.missfresh.cn/img_20180105021625371.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20171228155433182.png",
+        "name": "专属红包",
+        "link": "https://p-h5.missfresh.cn/zhuanshu2.html",
+        "primaryName": "每周红包免费领",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180105115047338.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180103105252067.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180103104844843.png"
+    }, {
+        "path": "https://j-image.missfresh.cn/img_20171028202909231.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20180105003542256.png",
+        "name": "专属客服",
+        "link": "https://p-h5.missfresh.cn/kefu.html",
+        "primaryName": "专人专线0等待",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180105115119466.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180105003646238.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180105003625791.png"
+    }, {
+        "path": "https://j-image.missfresh.cn/img_20180105021607945.png",
+        "suspensionIcon": "https://j-image.missfresh.cn/img_20180104215323936.png",
+        "name": "敬请期待",
+        "link": "https://p-h5.missfresh.cn/qidai.html",
+        "primaryName": "更多特权敬请期待",
+        "type": "webpromotion",
+        "descImage": "https://j-image.missfresh.cn/img_20180104215515844.png",
+        "descSelectIcon": "https://j-image.missfresh.cn/img_20180104221811729.png",
+        "descUnselectIcon": "https://j-image.missfresh.cn/img_20180104221845405.png"
+    }],
+    "success": true,
+    "end_time_text": "",
+    "card_name": "",
+    "total_save_money_text": {
+        "color": 16730257,
+        "money": "0.00",
+        "value": "¥1121.30"
+    }
+}

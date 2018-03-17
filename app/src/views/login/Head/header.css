@@ -1,0 +1,16 @@
+.header{
+    width:100%;
+    height:1rem;
+    background:#fff;
+    border-bottom:1px solid #ccc;
+}
+.header ul{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.header ul li span{
+    font-size:.4rem;
+}

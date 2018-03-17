@@ -1,0 +1,26 @@
+.list{
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.list ul{
+    width:95%;
+    height: 100%;
+}
+.list ul li{
+    width:100%;
+    height:1rem;
+    border-bottom:1px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.list ul li b{
+    font-size:.4rem;
+    color:#ccc;
+}
+.list ul li:first-child{
+    border-top:1px solid #eee;
+}

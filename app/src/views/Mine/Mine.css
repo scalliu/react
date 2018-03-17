@@ -1,0 +1,56 @@
+.login{
+    width:100%;
+    height:2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.btn{
+    width: 1.5rem;
+    height:.8rem;
+    border:2px solid palevioletred;
+    text-align: center;
+    line-height: .8rem;
+    color:palevioletred;
+    border-radius: .1rem;
+}
+.uls{
+    width:100%;
+    height:1rem;
+}
+.uls ul{
+    width:100%;
+    height:100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.uls ul li{
+    width:25%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+.vip{
+    width:100%;
+    height:.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.vip h4{
+    font-weight: 400;
+    font-size:.4rem;
+}
+.vip span{
+    font-size:.1rem;
+    color:#c3c3c3;
+}
+.box{
+    width:100%;
+    height:12.5rem;
+    overflow-y: auto;
+    background:#fff;
+}
